@@ -1,0 +1,26 @@
+{
+  "name": "routine-writer",
+  "version": "1.0.0",
+  "description": "Write well-structured routines — scheduled or triggered prompts that iterate over items (inbox, PRs, issues, CI, alerts), optionally act on them, and return a short structured report.",
+  "author": {
+    "name": "frontboat",
+    "url": "https://github.com/frontboat"
+  },
+  "homepage": "https://github.com/frontboat/routine-writer",
+  "repository": "https://github.com/frontboat/routine-writer",
+  "license": "MIT",
+  "keywords": [
+    "routine",
+    "routines",
+    "skill",
+    "agent-skill",
+    "claude-code",
+    "claude-plugin",
+    "automation",
+    "scheduled-prompts",
+    "briefing",
+    "triage",
+    "digest",
+    "tracker"
+  ]
+}
